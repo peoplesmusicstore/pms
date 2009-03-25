@@ -1,0 +1,7 @@
+= pms
+
+Description goes here.
+
+== Copyright
+
+Copyright (c) 2009 Dan Webb. See LICENSE for details.
